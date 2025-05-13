@@ -15,7 +15,7 @@ def main ():
     }
     </style>
     """,
-    unsafe_allow_html=True,)
+    unsafe_allow_html=True,) 
 
     st.title("La mia app con sfondo nero")
     st.write("Questo testo dovrebbe essere bianco su sfondo nero.")
